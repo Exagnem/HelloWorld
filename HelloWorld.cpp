@@ -2,6 +2,6 @@
 using namespace std;
 int main() 
 {
-    cout << "Dzien Dobry";
+    cout << "Dzień dobry, z tej strony Ronaldinho Gaucho";
     return 0;
 }
